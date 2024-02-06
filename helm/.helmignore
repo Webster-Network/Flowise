@@ -1,0 +1,4 @@
+# Patterns to ignore
+.dockerignore
+.gitignore
+.git/

@@ -1,0 +1,5 @@
+apiVersion: v2
+name: myapplication
+description: A Helm chart for deploying the Flowise application defined in docker-compose.yml on AKS
+version: 1.0.0
+appVersion: "1.0"
